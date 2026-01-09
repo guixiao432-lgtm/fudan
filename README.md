@@ -21,7 +21,7 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone [https://github.com/guixiao432-lgtm/-.git](https://github.com/guixiao432-lgtm/-.git)
+    git clone [https://github.com/guixiao432-lgtm/fudan.git](https://github.com/guixiao432-lgtm/fudan.git)
     cd fudan-grade-monitor
     ```
 
